@@ -1,6 +1,6 @@
 # Remarkable
 
-### A Fully Featured Markdown Editor for Linux (GTK3 version)
+### A Fully Featured Markdown Editor for Linux
 Remarkable is an open source Markdown Editor for Linux.
 
 
